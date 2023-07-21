@@ -1,2 +1,24 @@
-# Vue.js-3-Masterclass
-Repository containing the project from Vue.js 3 Masterclass, which is taught by Vue School
+# vue.js-3-masterclass
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
