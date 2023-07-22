@@ -107,6 +107,9 @@
 </template>
 
 <script>
+import sourceData from "@/data.json";
+
+console.log(sourceData);
 export default {
   name: "HelloWorld",
   props: {
